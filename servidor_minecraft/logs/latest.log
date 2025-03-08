@@ -1,92 +1,246 @@
-[16:11:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:11:28] [ServerMain/INFO]: Loaded 1290 recipes
-[16:11:29] [ServerMain/INFO]: Loaded 1399 advancements
-[16:11:29] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:11:29] [Server thread/INFO]: Loading properties
-[16:11:29] [Server thread/INFO]: Default game type: SURVIVAL
-[16:11:29] [Server thread/INFO]: Generating keypair
-[16:11:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:11:29] [Server thread/INFO]: Using epoll channel type
-[16:11:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:11:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:11:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:11:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:11:29] [Server thread/INFO]: Preparing level "world"
-[16:11:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:11:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:11:33] [Server thread/INFO]: Time elapsed: 506 ms
-[16:11:33] [Server thread/INFO]: Done (3.187s)! For help, type "help"
-[16:11:49] [Server thread/INFO]: SwatCat1987[/127.60.220.118:55667] logged in with entity id 83 at (-6.4260033768480325, 67.0, 6.365916130335243)
-[16:11:49] [Server thread/INFO]: SwatCat1987 joined the game
-[16:11:51] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:51461] logged in with entity id 191 at (-9.617030088600467, 68.0, 10.075666979585398)
-[16:11:51] [Server thread/INFO]: MR_MarmoRella joined the game
-[16:11:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-8, y=69, z=4}
-[16:12:02] [Server thread/INFO]: [SwatCat1987: Made MR_MarmoRella a server operator]
-[16:12:13] [Server thread/INFO]: Gabbo1041[/127.122.181.153:34173] logged in with entity id 270 at (-34.674578840705834, 64.92159999847412, 12.850996426005628)
-[16:12:13] [Server thread/INFO]: Gabbo1041 joined the game
-[16:12:24] [Server thread/INFO]: [SwatCat1987: Made Gabbo1041 a server operator]
-[16:12:41] [Server thread/INFO]: Gabbo1041 lost connection: Disconnected
-[16:12:41] [Server thread/INFO]: Gabbo1041 left the game
-[16:12:48] [Server thread/INFO]: MR_MarmoRella has made the advancement [Stone Age]
-[16:13:39] [Server thread/INFO]: MR_MarmoRella has made the advancement [Getting an Upgrade]
-[16:14:24] [Server thread/INFO]: Gabbo1041[/127.122.181.153:45219] logged in with entity id 628 at (-34.674578840705834, 64.92159999847412, 12.850996426005628)
-[16:14:24] [Server thread/INFO]: Gabbo1041 joined the game
-[16:15:14] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
-[16:15:14] [Server thread/INFO]: SwatCat1987 left the game
-[16:15:22] [Server thread/INFO]: SwatCat1987[/127.60.220.118:54707] logged in with entity id 905 at (-8.984564446109864, 68.0, 8.241005874015585)
-[16:15:22] [Server thread/INFO]: SwatCat1987 joined the game
-[16:16:30] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
-[16:16:30] [Server thread/INFO]: SwatCat1987 left the game
-[16:17:08] [Server thread/INFO]: Gabbo1041 has made the advancement [Stone Age]
-[16:19:23] [Server thread/INFO]: Gabbo1041 has made the advancement [Getting an Upgrade]
-[16:20:19] [Server thread/INFO]: MR_MarmoRella has made the advancement [Monster Hunter]
-[16:20:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=270, y=71, z=-13} jd{x=270, y=69, z=-13}
-[16:20:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=270, y=71, z=-13} jd{x=270, y=69, z=-13}
-[16:21:29] [Server thread/INFO]: Gabbo1041 was slain by Spider
-[16:23:06] [Server thread/INFO]: Gabbo1041 has made the advancement [Monster Hunter]
-[16:25:28] [Server thread/INFO]: Gabbo1041 has made the advancement [Sweet Dreams]
-[16:25:48] [Server thread/INFO]: [Not Secure] <Gabbo1041> gay mettiti a dormire
-[16:26:07] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
-[16:26:07] [Server thread/INFO]: MR_MarmoRella left the game
-[16:26:40] [Server thread/INFO]: Gabbo1041 was blown up by Creeper
-[16:28:09] [Server thread/INFO]: VivailDUX69[/127.217.31.226:37045] logged in with entity id 5883 at (0.5, 66.0, 5.5)
-[16:28:09] [Server thread/INFO]: VivailDUX69 joined the game
-[16:28:12] [Server thread/INFO]: SwatCat1987[/127.60.220.118:41237] logged in with entity id 6010 at (-9.729600153589693, 68.0, 9.646482965272853)
-[16:28:12] [Server thread/INFO]: SwatCat1987 joined the game
-[16:28:25] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
-[16:28:25] [Server thread/INFO]: SwatCat1987 left the game
-[16:28:49] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:43943] logged in with entity id 6208 at (248.69999998807907, 57.0, -69.96148895632105)
-[16:28:49] [Server thread/INFO]: MR_MarmoRella joined the game
-[16:28:57] [Server thread/INFO]: [MR_MarmoRella: Made VivailDUX69 a server operator]
-[16:28:59] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
-[16:28:59] [Server thread/INFO]: MR_MarmoRella left the game
-[16:30:00] [Server thread/INFO]: [Not Secure] <VivailDUX69> gaybriel entra su discord
-[16:30:22] [Server thread/INFO]: [Not Secure] <Gabbo1041> mi lagga
-[16:30:37] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to Gabbo1041]
-[16:30:54] [Server thread/INFO]: [Not Secure] <VivailDUX69> guarda su
-[16:31:18] [Server thread/INFO]: [Not Secure] <Gabbo1041> intendi giu
-[16:31:34] [Server thread/INFO]: [Not Secure] <VivailDUX69> allora vedi che sei gay
-[16:31:39] [Server thread/INFO]: VivailDUX69 has made the advancement [Stone Age]
-[16:31:45] [Server thread/INFO]: Gabbo1041 was impaled on a stalagmite
-[16:32:09] [Server thread/INFO]: [Not Secure] <Gabbo1041> mi tippi da te
-[16:32:16] [Server thread/INFO]: [VivailDUX69: Teleported Gabbo1041 to VivailDUX69]
-[16:32:33] [Server thread/INFO]: [Not Secure] <VivailDUX69> mi dai un piccon3e in pietra
-[16:32:42] [Server thread/INFO]: [Not Secure] <Gabbo1041> vieni
-[16:32:43] [Server thread/INFO]: VivailDUX69 was impaled on a stalagmite
-[16:32:50] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to Gabbo1041]
-[16:33:31] [Server thread/INFO]: [Not Secure] <VivailDUX69> non me lo ha preso
-[16:33:48] [Server thread/INFO]: [Not Secure] <Gabbo1041> come si droppa
-[16:33:52] [Server thread/INFO]: [Not Secure] <VivailDUX69> q
-[16:33:58] [Server thread/INFO]: VivailDUX69 has made the advancement [Getting an Upgrade]
-[16:34:00] [Server thread/INFO]: [Not Secure] <VivailDUX69> grazir
-[16:34:34] [Server thread/INFO]: [VivailDUX69: Gamerule keepInventory is now set to: true]
-[16:35:07] [Server thread/INFO]: Gabbo1041 has made the advancement [Acquire Hardware]
-[16:35:37] [Server thread/INFO]: Gabbo1041 has made the advancement [Isn't It Iron Pick]
-[16:35:42] [Server thread/INFO]: Gabbo1041 has made the advancement [Diamonds!]
-[16:36:12] [Server thread/INFO]: [Not Secure] <VivailDUX69> gab devi uscire un attimo dal server e poi rietri perche josh deve fare una cosa pratica del server
-[16:36:20] [Server thread/INFO]: VivailDUX69 lost connection: Disconnected
-[16:36:20] [Server thread/INFO]: VivailDUX69 left the game
-[16:36:37] [Server thread/INFO]: [Not Secure] <Gabbo1041> asp
-[16:37:01] [Server thread/INFO]: Gabbo1041 tried to swim in lava
-[16:37:07] [Server thread/INFO]: Gabbo1041 lost connection: Disconnected
-[16:37:07] [Server thread/INFO]: Gabbo1041 left the game
+[18:54:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:54:06] [ServerMain/INFO]: Loaded 1290 recipes
+[18:54:06] [ServerMain/INFO]: Loaded 1399 advancements
+[18:54:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:54:07] [Server thread/INFO]: Loading properties
+[18:54:07] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:07] [Server thread/INFO]: Generating keypair
+[18:54:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:07] [Server thread/INFO]: Using epoll channel type
+[18:54:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:54:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:54:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:54:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:54:07] [Server thread/INFO]: Preparing level "world"
+[18:54:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:54:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:54:10] [Server thread/INFO]: Time elapsed: 511 ms
+[18:54:10] [Server thread/INFO]: Done (2.905s)! For help, type "help"
+[18:54:19] [Server thread/INFO]: Gabbo1041[/127.100.52.175:33095] logged in with entity id 26 at (399.19247795168616, -53.0, -345.4573094451514)
+[18:54:19] [Server thread/INFO]: Gabbo1041 joined the game
+[18:57:15] [Server thread/INFO]: Gabbo1041 has made the advancement [Not Today, Thank You]
+[18:57:21] [Server thread/INFO]: Gabbo1041 was slain by Zombie
+[18:58:09] [Server thread/WARN]: Gabbo1041 moved too quickly! 8.042592072331104,0.33305945597892617,6.284860012154525
+[19:07:13] [Server thread/INFO]: Gabbo1041 tried to swim in lava
+[19:07:37] [Server thread/INFO]: Gabbo1041 lost connection: Disconnected
+[19:07:37] [Server thread/INFO]: Gabbo1041 left the game
+[19:25:34] [Server thread/INFO]: Gabbo1041[/127.100.52.175:44887] logged in with entity id 3360 at (191.4748331306807, 37.0, -398.5416828893571)
+[19:25:34] [Server thread/INFO]: Gabbo1041 joined the game
+[19:44:42] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:47967] logged in with entity id 11001 at (-71.66432371790923, 63.0, 2186.7993752678885)
+[19:44:42] [Server thread/INFO]: MR_MarmoRella joined the game
+[19:50:33] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[19:50:33] [Server thread/INFO]: MR_MarmoRella left the game
+[19:57:31] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:48147] logged in with entity id 18844 at (-134.36884612079575, 62.11076431274413, 2912.9350186250017)
+[19:57:31] [Server thread/INFO]: MR_MarmoRella joined the game
+[19:58:12] [Server thread/INFO]: MR_MarmoRella was killed
+[19:58:12] [Server thread/INFO]: [MR_MarmoRella: Killed MR_MarmoRella]
+[20:01:39] [Server thread/INFO]: MR_MarmoRella has made the advancement [Best Friends Forever]
+[20:02:42] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[20:02:42] [Server thread/INFO]: MR_MarmoRella left the game
+[20:03:28] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:41687] logged in with entity id 23773 at (731.7566722386221, 95.5625, 251.24346479941246)
+[20:03:28] [Server thread/INFO]: MR_MarmoRella joined the game
+[20:08:38] [Server thread/INFO]: Gabbo1041 lost connection: Timed out
+[20:08:38] [Server thread/INFO]: Gabbo1041 left the game
+[20:08:38] [Server thread/WARN]: handleDisconnection() called twice
+[20:08:59] [Server thread/INFO]: Gabbo1041[/127.100.52.175:50157] logged in with entity id 29882 at (3217.1042983154443, 67.0, -3586.2609911675554)
+[20:08:59] [Server thread/INFO]: Gabbo1041 joined the game
+[20:09:43] [Server thread/INFO]: whatsand[/127.172.12.233:55125] logged in with entity id 30737 at (-7.5, 68.0, 10.5)
+[20:09:43] [Server thread/INFO]: whatsand joined the game
+[20:10:00] [Server thread/INFO]: [MR_MarmoRella: Made whatsand a server operator]
+[20:21:56] [Server thread/INFO]: [Not Secure] <Gabbo1041> t
+[20:22:12] [Server thread/INFO]: Gabbo1041 was slain by Zombie
+[20:29:19] [Server thread/INFO]: MR_MarmoRella burned to death
+[20:29:38] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to Gabbo1041]
+[20:30:34] [Server thread/INFO]: [MR_MarmoRella: Kicked MR_MarmoRella: Kicked by an operator]
+[20:30:34] [Server thread/INFO]: MR_MarmoRella lost connection: Kicked by an operator
+[20:30:34] [Server thread/INFO]: MR_MarmoRella left the game
+[20:30:38] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:42653] logged in with entity id 50881 at (3543.300000011921, 72.0, -5731.699999988079)
+[20:30:38] [Server thread/INFO]: MR_MarmoRella joined the game
+[20:31:30] [Server thread/INFO]: [MR_MarmoRella: Teleported whatsand to Gabbo1041]
+[20:33:26] [Server thread/INFO]: whatsand has made the advancement [Stone Age]
+[20:34:29] [Server thread/INFO]: whatsand has made the advancement [Getting an Upgrade]
+[20:35:38] [Server thread/INFO]: [MR_MarmoRella: The game is running normally]
+[20:35:51] [Server thread/INFO]: [MR_MarmoRella: The game is frozen]
+[20:36:10] [Server thread/INFO]: [MR_MarmoRella: The game is running normally]
+[20:36:18] [Server thread/INFO]: [whatsand: Removed 60 item(s) from player whatsand]
+[20:36:35] [Server thread/INFO]: [MR_MarmoRella: Set the time to 1000]
+[20:37:02] [Server thread/INFO]: SwatCat1987[/127.60.220.118:54633] logged in with entity id 52224 at (-9.729600153589693, 68.0, 9.646482965272853)
+[20:37:02] [Server thread/INFO]: SwatCat1987 joined the game
+[20:38:12] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to Gabbo1041]
+[20:38:23] [Server thread/INFO]: MR_MarmoRella hit the ground too hard
+[20:39:09] [Server thread/INFO]: Villager cmk['Villager'/45546, l='ServerLevel[world]', x=3520.13, y=68.47, z=-5891.67] died, message: 'Villager was slain by Zombie'
+[20:40:02] [Server thread/INFO]: Gabbo1041 lost connection: Timed out
+[20:40:02] [Server thread/INFO]: Gabbo1041 left the game
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=72, z=-5839} jd{x=3464, y=71, z=-5840}
+[20:40:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=72, z=-5839} jd{x=3464, y=71, z=-5840}
+[20:41:36] [Server thread/INFO]: VivailDUX69[/127.217.31.226:51477] logged in with entity id 53445 at (498.0047147303241, 4.0, 369.69999998807907)
+[20:41:36] [Server thread/INFO]: VivailDUX69 joined the game
+[20:42:21] [Server thread/INFO]: VivailDUX69 lost connection: Timed out
+[20:42:21] [Server thread/INFO]: VivailDUX69 left the game
+[20:42:34] [Server thread/INFO]: [SwatCat1987: Set own game mode to Survival Mode]
+[20:42:38] [Server thread/INFO]: Gabbo1041[/127.100.52.175:35369] logged in with entity id 54021 at (3448.0327418316665, 71.0, -5799.845991261061)
+[20:42:38] [Server thread/INFO]: Gabbo1041 joined the game
+[20:42:39] [Server thread/INFO]: SwatCat1987 fell from a high place
+[20:42:47] [Server thread/INFO]: [SwatCat1987: Set own game mode to Creative Mode]
+[20:42:56] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to MR_MarmoRella]
+[20:43:05] [Server thread/INFO]: VivailDUX69[/127.217.31.226:45243] logged in with entity id 54288 at (469.3811200425824, 0.0, 361.3734633298433)
+[20:43:05] [Server thread/INFO]: VivailDUX69 joined the game
+[20:43:55] [Server thread/INFO]: [MR_MarmoRella: Kicked SwatCat1987: Kicked by an operator]
+[20:43:55] [Server thread/INFO]: SwatCat1987 lost connection: Kicked by an operator
+[20:43:55] [Server thread/INFO]: SwatCat1987 left the game
+[20:43:56] [Server thread/INFO]: whatsand was slain by Gabbo1041
+[20:44:00] [Server thread/INFO]: SwatCat1987[/127.60.220.118:56191] logged in with entity id 55060 at (3461.891370691459, 147.9931380665602, -5846.249627504075)
+[20:44:00] [Server thread/INFO]: SwatCat1987 joined the game
+[20:44:28] [Server thread/INFO]: [SwatCat1987: Teleported whatsand to SwatCat1987]
+[20:44:32] [Server thread/INFO]: whatsand fell from a high place
+[20:44:53] [Server thread/INFO]: [SwatCat1987: Teleported whatsand to SwatCat1987]
+[20:44:56] [Server thread/INFO]: whatsand fell from a high place
+[20:45:00] [Server thread/INFO]: [SwatCat1987: Teleported whatsand to SwatCat1987]
+[20:45:06] [Server thread/INFO]: VivailDUX69 was blown up by Creeper
+[20:45:10] [Server thread/INFO]: [SwatCat1987: Teleported whatsand to SwatCat1987]
+[20:45:35] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to SwatCat1987]
+[20:45:39] [Server thread/INFO]: VivailDUX69 fell from a high place
+[20:45:59] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to Gabbo1041]
+[20:46:14] [Server thread/INFO]: whatsand has made the advancement [Acquire Hardware]
+[20:47:21] [Server thread/INFO]: [SwatCat1987: Set the time to 1000]
+[20:47:26] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to MR_MarmoRella]
+[20:47:39] [Server thread/INFO]: whatsand has made the advancement [Isn't It Iron Pick]
+[20:47:46] [Server thread/INFO]: VivailDUX69 was killed
+[20:47:46] [Server thread/INFO]: [VivailDUX69: Killed VivailDUX69]
+[20:50:23] [Server thread/INFO]: [MR_MarmoRella: Kicked SwatCat1987: Kicked by an operator]
+[20:50:23] [Server thread/INFO]: SwatCat1987 lost connection: Kicked by an operator
+[20:50:23] [Server thread/INFO]: SwatCat1987 left the game
+[20:50:28] [Server thread/INFO]: SwatCat1987[/127.60.220.118:58931] logged in with entity id 61893 at (3848.884264910391, 63.0, -5988.8641332043335)
+[20:50:28] [Server thread/INFO]: SwatCat1987 joined the game
+[20:51:50] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to Gabbo1041]
+[20:53:41] [Server thread/INFO]: whatsand has made the advancement [Monster Hunter]
+[20:53:53] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
+[20:53:53] [Server thread/INFO]: SwatCat1987 left the game
+[20:54:34] [Server thread/INFO]: whatsand was killed
+[20:54:34] [Server thread/INFO]: [VivailDUX69: Killed whatsand]
+[20:54:39] [Server thread/INFO]: whatsand lost connection: Disconnected
+[20:54:39] [Server thread/INFO]: whatsand left the game
+[20:55:52] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to Gabbo1041]
+[20:59:09] [Server thread/INFO]: Gabbo1041 was shot by Skeleton
+[21:00:12] [Server thread/INFO]: Gabbo1041 was slain by Enderman
+[21:00:58] [Server thread/INFO]: Gabbo1041 was shot by Skeleton
+[21:01:43] [Server thread/INFO]: Gabbo1041 was blown up by Creeper
+[21:02:55] [Server thread/INFO]: Gabbo1041 lost connection: Timed out
+[21:02:55] [Server thread/INFO]: Gabbo1041 left the game
+[21:04:22] [Server thread/INFO]: [VivailDUX69: Set the target tick rate to 20.0 per second]
+[21:06:40] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[21:06:40] [Server thread/INFO]: MR_MarmoRella left the game
+[21:06:44] [Server thread/INFO]: Gabbo1041[/127.100.52.175:48161] logged in with entity id 70734 at (3464.0044931164493, 71.0, -5793.890361055459)
+[21:06:44] [Server thread/INFO]: Gabbo1041 joined the game
+[21:07:22] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:44013] logged in with entity id 71022 at (3755.656109226308, 51.0, -5908.802133338464)
+[21:07:22] [Server thread/INFO]: MR_MarmoRella joined the game
+[21:08:09] [Server thread/INFO]: Gabbo1041 was slain by Enderman
+[21:09:52] [Server thread/INFO]: Gabbo1041 was slain by VivailDUX69
+[21:10:10] [Server thread/INFO]: VivailDUX69 was slain by Gabbo1041
+[21:10:19] [Server thread/INFO]: VivailDUX69 was slain by Gabbo1041
+[21:10:30] [Server thread/INFO]: Gabbo1041 was slain by VivailDUX69
+[21:11:12] [Server thread/INFO]: Gabbo1041 was slain by VivailDUX69
+[21:11:33] [Server thread/INFO]: VivailDUX69 was slain by Gabbo1041
+[21:13:30] [Server thread/INFO]: Gabbo1041 lost connection: Timed out
+[21:13:30] [Server thread/INFO]: Gabbo1041 left the game
+[21:13:33] [Server thread/INFO]: [VivailDUX69: Set the weather to clear]
+[21:13:42] [Server thread/INFO]: Gabbo1041[/127.100.52.175:44225] logged in with entity id 73488 at (3460.586656949173, 71.0, -5794.235659594439)
+[21:13:43] [Server thread/INFO]: Gabbo1041 joined the game
+[21:15:13] [Server thread/INFO]: Gabbo1041 was slain by Zombie
+[21:15:29] [Server thread/INFO]: MR_MarmoRella was doomed to fall by Creeper
+[21:15:43] [Server thread/INFO]: VivailDUX69 was slain by Zombie
+[21:17:25] [Server thread/INFO]: Gabbo1041 was slain by Enderman
+[21:18:01] [Server thread/INFO]: VivailDUX69 was slain by Zombie
+[21:27:37] [Server thread/INFO]: whatsand[/127.172.12.233:50163] logged in with entity id 79910 at (3382.6915983680287, 79.0, -5946.982344517618)
+[21:27:37] [Server thread/INFO]: whatsand joined the game
+[21:28:17] [Server thread/WARN]: Gabbo1041 moved too quickly! -9.824125636330791,0.0,2.5615449244796764
+[21:28:28] [Server thread/INFO]: [whatsand: Teleported whatsand to VivailDUX69]
+[21:28:42] [Server thread/INFO]: MR_MarmoRella was slain by Spider
+[21:29:09] [Server thread/INFO]: whatsand was killed
+[21:29:09] [Server thread/INFO]: [MR_MarmoRella: Killed whatsand]
+[21:29:33] [Server thread/INFO]: MR_MarmoRella was killed
+[21:29:33] [Server thread/INFO]: [whatsand: Killed MR_MarmoRella]
+[21:30:05] [Server thread/INFO]: [Not Secure] <Gabbo1041> geys
+[21:30:27] [Server thread/INFO]: [Not Secure] <MR_MarmoRella> AHAHAHAHA
+[21:30:29] [Server thread/INFO]: [Not Secure] <VivailDUX69> sei un gay
+[21:30:35] [Server thread/INFO]: [Not Secure] <whatsand> piselloahhh
+[21:31:14] [Server thread/INFO]: Gabbo1041 was slain by Zombie
+[21:31:49] [Server thread/INFO]: [whatsand: Removed 127 item(s) from player MR_MarmoRella]
+[21:32:04] [Server thread/INFO]: [MR_MarmoRella: Banned whatsand: Banned by an operator.]
+[21:32:04] [Server thread/INFO]: whatsand lost connection: You are banned from this server
+[21:32:04] [Server thread/INFO]: whatsand left the game
+[21:32:05] [Server thread/INFO]: MR_MarmoRella was shot by Skeleton
+[21:32:21] [Server thread/INFO]: Disconnecting whatsand (/127.172.12.233:40893): You are banned from this server.
+Reason: Banned by an operator.
+[21:32:21] [Server thread/INFO]: whatsand (/127.172.12.233:40893) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:32:21] [Server thread/WARN]: handleDisconnection() called twice
+[21:33:03] [Server thread/INFO]: Disconnecting whatsand (/127.172.12.233:49767): You are banned from this server.
+Reason: Banned by an operator.
+[21:33:03] [Server thread/INFO]: whatsand (/127.172.12.233:49767) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:33:03] [Server thread/WARN]: handleDisconnection() called twice
+[21:33:52] [Server thread/INFO]: [VivailDUX69: Set the time to 1000]
+[21:36:41] [Server thread/INFO]: Disconnecting whatsand (/127.172.12.233:54727): You are banned from this server.
+Reason: Banned by an operator.
+[21:36:41] [Server thread/INFO]: whatsand (/127.172.12.233:54727) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:36:42] [Server thread/WARN]: handleDisconnection() called twice
+[21:37:43] [Server thread/INFO]: Disconnecting whatsand (/127.172.12.233:41403): You are banned from this server.
+Reason: Banned by an operator.
+[21:37:43] [Server thread/INFO]: whatsand (/127.172.12.233:41403) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:37:43] [Server thread/WARN]: handleDisconnection() called twice
+[21:41:58] [Server thread/INFO]: MR_MarmoRella was shot by Skeleton
+[21:42:57] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to VivailDUX69]
+[21:43:24] [Server thread/INFO]: [Not Secure] <Gabbo1041> ma proco zio limongay e molto speciale
+[21:43:26] [Server thread/INFO]: MR_MarmoRella was killed
+[21:43:26] [Server thread/INFO]: [MR_MarmoRella: Killed MR_MarmoRella]
+[21:46:12] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[21:46:12] [Server thread/INFO]: MR_MarmoRella left the game
+[21:46:40] [Server thread/INFO]: Disconnecting whatsand (/127.172.12.233:42193): You are banned from this server.
+Reason: Banned by an operator.
+[21:46:40] [Server thread/INFO]: whatsand (/127.172.12.233:42193) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21:46:40] [Server thread/WARN]: handleDisconnection() called twice
+[21:46:50] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:60789] logged in with entity id 88970 at (3764.6588257236367, 5.0, -6052.98985921525)
+[21:46:50] [Server thread/INFO]: MR_MarmoRella joined the game
+[21:47:38] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[21:47:38] [Server thread/INFO]: MR_MarmoRella left the game
+[21:47:45] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:48731] logged in with entity id 89499 at (3776.300000011921, 2.0, -6050.622105580261)
+[21:47:45] [Server thread/INFO]: MR_MarmoRella joined the game
+[21:59:48] [Server thread/INFO]: MR_MarmoRella was shot by Skeleton
+[22:00:16] [Server thread/INFO]: VivailDUX69 lost connection: Disconnected
+[22:00:16] [Server thread/INFO]: VivailDUX69 left the game
+[22:00:23] [Server thread/INFO]: Gabbo1041 lost connection: Disconnected
+[22:00:23] [Server thread/INFO]: Gabbo1041 left the game
+[22:00:36] [Server thread/INFO]: VivailDUX69[/127.217.31.226:55985] logged in with entity id 95583 at (3433.4175341296427, 66.46634750372172, -5634.969934128838)
+[22:00:36] [Server thread/INFO]: VivailDUX69 joined the game
+[22:00:40] [Server thread/INFO]: Gabbo1041[/127.100.52.175:41011] logged in with entity id 95905 at (3457.587053149687, 71.0, -5801.699999988079)
+[22:00:40] [Server thread/INFO]: Gabbo1041 joined the game
+[22:01:02] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to VivailDUX69]
+[22:01:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3448, y=67, z=-5638} jd{x=3447, y=65, z=-5639}
+[22:02:36] [Server thread/INFO]: Gabbo1041 lost connection: Disconnected
+[22:02:36] [Server thread/INFO]: Gabbo1041 left the game
+[22:04:26] [Server thread/INFO]: MR_MarmoRella was killed
+[22:04:26] [Server thread/INFO]: [MR_MarmoRella: Killed MR_MarmoRella]
+[22:10:01] [Server thread/INFO]: MR_MarmoRella fell from a high place
+[22:10:17] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to VivailDUX69]
+[22:13:13] [Server thread/INFO]: VivailDUX69 was slain by MR_MarmoRella
+[22:17:10] [Server thread/INFO]: VivailDUX69 was slain by Zombie
+[22:20:51] [Server thread/INFO]: MR_MarmoRella has made the advancement [Fishy Business]
+[22:22:26] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
+[22:22:26] [Server thread/INFO]: MR_MarmoRella left the game
+[22:32:16] [Server thread/INFO]: [VivailDUX69: Gave 25 [Diamond] to VivailDUX69]
+[22:34:38] [Server thread/INFO]: SwatCat1987[/127.60.220.118:37909] logged in with entity id 105116 at (3462.054863243045, 81.36249199053395, -5794.537553597591)
+[22:34:38] [Server thread/INFO]: SwatCat1987 joined the game
+[22:35:46] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to VivailDUX69]
+[22:36:53] [Server thread/INFO]: [SwatCat1987: Set own game mode to Survival Mode]
+[22:37:49] [Server thread/INFO]: [Not Secure] <SwatCat1987> etto?
+[22:38:17] [Server thread/INFO]: [Not Secure] <VivailDUX69> asp
+[22:39:50] [Server thread/INFO]: SwatCat1987 has made the advancement [Stone Age]
+[22:41:30] [Server thread/INFO]: SwatCat1987 has made the advancement [Getting an Upgrade]
+[22:45:34] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
+[22:45:34] [Server thread/INFO]: SwatCat1987 left the game
+[22:48:45] [Server thread/INFO]: VivailDUX69 lost connection: Disconnected
+[22:48:45] [Server thread/INFO]: VivailDUX69 left the game

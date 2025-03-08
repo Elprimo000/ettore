@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "ba48438d-bfe6-30b4-a64b-415d942f324b",
+    "name": "whatsand",
+    "created": "2025-03-08 21:32:04 +0000",
+    "source": "MR_MarmoRella",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
