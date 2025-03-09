@@ -19,6 +19,7 @@
       "minecraft:bamboo_jungle": "2025-03-08 20:05:22 +0000",
       "minecraft:wooded_badlands": "2025-03-08 20:52:02 +0000",
       "minecraft:windswept_savanna": "2025-03-08 20:10:12 +0000",
+      "minecraft:warm_ocean": "2025-03-09 17:51:13 +0000",
       "minecraft:badlands": "2025-03-08 20:47:05 +0000",
       "minecraft:flower_forest": "2025-03-08 17:06:53 +0000",
       "minecraft:savanna_plateau": "2025-03-09 13:40:06 +0000",
@@ -2645,6 +2646,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-09 14:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-09 17:52:40 +0000"
     },
     "done": true
   },

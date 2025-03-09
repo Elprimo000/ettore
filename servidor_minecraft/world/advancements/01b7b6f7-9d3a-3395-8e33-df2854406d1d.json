@@ -28,6 +28,7 @@
       "minecraft:wooded_badlands": "2025-03-09 16:38:55 +0000",
       "minecraft:windswept_savanna": "2025-03-08 17:27:47 +0000",
       "minecraft:plains": "2025-03-08 16:22:55 +0000",
+      "minecraft:warm_ocean": "2025-03-09 17:49:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-08 19:38:20 +0000"
     },
     "done": false
@@ -2307,6 +2308,30 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-09 16:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-09 17:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-09 17:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-09 17:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-09 17:38:04 +0000"
     },
     "done": true
   },
