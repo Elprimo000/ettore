@@ -305,6 +305,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-09 17:58:56 +0000",
       "minecraft:skeleton": "2025-03-08 16:24:29 +0000",
       "minecraft:enderman": "2025-03-08 21:00:31 +0000",
       "minecraft:spider": "2025-03-08 18:12:48 +0000",
@@ -2311,13 +2312,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_sea_pickle": "2025-03-09 17:51:06 +0000"
+      "has_pumpkin": "2025-03-09 17:38:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-03-09 17:38:04 +0000"
     },
@@ -2329,9 +2330,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
-      "has_pumpkin": "2025-03-09 17:38:04 +0000"
+      "has_sea_pickle": "2025-03-09 17:51:06 +0000"
     },
     "done": true
   },
