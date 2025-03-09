@@ -2427,6 +2427,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-09 12:11:06 +0000",
+      "minecraft:sheep": "2025-03-09 12:14:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 11:51:54 +0000"
@@ -2514,6 +2521,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-09 11:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-09 12:11:06 +0000"
     },
     "done": true
   },
