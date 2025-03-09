@@ -21,6 +21,7 @@
       "minecraft:windswept_savanna": "2025-03-08 20:10:12 +0000",
       "minecraft:badlands": "2025-03-08 20:47:05 +0000",
       "minecraft:flower_forest": "2025-03-08 17:06:53 +0000",
+      "minecraft:savanna_plateau": "2025-03-09 13:40:06 +0000",
       "minecraft:beach": "2025-03-08 17:14:26 +0000",
       "minecraft:dark_forest": "2025-03-08 17:30:30 +0000",
       "minecraft:mangrove_swamp": "2025-03-08 20:08:11 +0000",
@@ -2380,6 +2381,42 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2025-03-09 12:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-09 13:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-03-09 13:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-09 13:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:41:34 +0000"
     },
     "done": true
   },
