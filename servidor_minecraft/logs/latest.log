@@ -1,64 +1,37 @@
-[00:08:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:08:51] [ServerMain/INFO]: Loaded 1290 recipes
-[00:08:51] [ServerMain/INFO]: Loaded 1399 advancements
-[00:08:52] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:08:52] [Server thread/INFO]: Loading properties
-[00:08:52] [Server thread/INFO]: Default game type: SURVIVAL
-[00:08:52] [Server thread/INFO]: Generating keypair
-[00:08:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:08:52] [Server thread/INFO]: Using epoll channel type
-[00:08:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:08:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:08:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:08:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:08:52] [Server thread/INFO]: Preparing level "world"
-[00:08:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:08:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:08:55] [Server thread/INFO]: Time elapsed: 473 ms
-[00:08:55] [Server thread/INFO]: Done (2.886s)! For help, type "help"
-[00:09:22] [Server thread/INFO]: VivailDUX69[/127.217.31.226:56025] logged in with entity id 46 at (3434.7285224608463, 66.0, -5640.276950166965)
-[00:09:22] [Server thread/INFO]: VivailDUX69 joined the game
-[00:12:29] [Server thread/INFO]: SwatCat1987[/127.60.220.118:46739] logged in with entity id 497 at (3408.4715290794607, 39.0, -5673.300000011921)
-[00:12:29] [Server thread/INFO]: SwatCat1987 joined the game
-[00:14:11] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:33591] logged in with entity id 928 at (3755.225864268639, 63.0, -5928.059735910545)
-[00:14:11] [Server thread/INFO]: MR_MarmoRella joined the game
-[00:16:03] [Server thread/INFO]: SwatCat1987 has made the advancement [Acquire Hardware]
-[00:16:12] [Server thread/INFO]: SwatCat1987 has made the advancement [Isn't It Iron Pick]
-[00:16:35] [Server thread/INFO]: SwatCat1987 has made the advancement [Suit Up]
-[00:20:15] [Server thread/INFO]: SwatCat1987 has made the advancement [Diamonds!]
-[00:21:00] [Server thread/INFO]: MR_MarmoRella lost connection: Disconnected
-[00:21:00] [Server thread/INFO]: MR_MarmoRella left the game
-[00:21:33] [Server thread/INFO]: [SwatCat1987: Teleported SwatCat1987 to VivailDUX69]
-[00:27:47] [Server thread/INFO]: [VivailDUX69: Set the weather to clear]
-[00:28:27] [Server thread/INFO]: SwatCat1987 has made the advancement [Sweet Dreams]
-[00:28:44] [Server thread/INFO]: [Not Secure] <VivailDUX69> gay
-[00:29:11] [Server thread/INFO]: [Not Secure] <VivailDUX69> il like wet pussy
-[00:40:41] [Server thread/INFO]: [Not Secure] <VivailDUX69> il like big cock
-[00:49:48] [Server thread/INFO]: [SwatCat1987: Set own game mode to Creative Mode]
-[00:50:02] [Server thread/INFO]: [SwatCat1987: Set own game mode to Survival Mode]
-[00:54:29] [Server thread/INFO]: [VivailDUX69: Set the weather to clear]
-[00:57:55] [Server thread/INFO]: VivailDUX69 was blown up by Creeper
-[00:58:05] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to SwatCat1987]
-[00:58:20] [Server thread/INFO]: [VivailDUX69: Set own game mode to Spectator Mode]
-[00:59:30] [Server thread/INFO]: [VivailDUX69: Set own game mode to Creative Mode]
-[01:00:27] [Server thread/INFO]: SwatCat1987 was killed
-[01:00:27] [Server thread/INFO]: [SwatCat1987: Killed SwatCat1987]
-[01:00:49] [Server thread/INFO]: [VivailDUX69: Set own game mode to Survival Mode]
-[01:01:11] [Server thread/INFO]: SwatCat1987 has made the advancement [Monster Hunter]
-[01:12:46] [Server thread/INFO]: SwatCat1987 was killed
-[01:12:46] [Server thread/INFO]: [SwatCat1987: Killed SwatCat1987]
-[01:15:03] [Server thread/INFO]: VivailDUX69 lost connection: You logged in from another location
-[01:15:03] [Server thread/INFO]: VivailDUX69 left the game
-[01:15:03] [Server thread/WARN]: handleDisconnection() called twice
-[01:15:05] [Server thread/INFO]: VivailDUX69[/127.200.98.53:42187] logged in with entity id 16294 at (3435.4501145422914, 64.0, -5631.160842608743)
-[01:15:05] [Server thread/INFO]: VivailDUX69 joined the game
-[01:18:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3484, y=66, z=-5663} jd{x=3486, y=65, z=-5664}
-[01:21:38] [Server thread/INFO]: SwatCat1987 lost connection: Disconnected
-[01:21:38] [Server thread/INFO]: SwatCat1987 left the game
-[01:30:20] [Server thread/INFO]: [VivailDUX69: Set the time to 1000]
-[01:33:47] [Server thread/INFO]: [VivailDUX69: Gave 128 [Spruce Fence] to VivailDUX69]
-[01:36:28] [Server thread/INFO]: [VivailDUX69: Gave 64 [Spruce Fence] to VivailDUX69]
-[01:38:25] [Server thread/INFO]: [VivailDUX69: Gave 1 [Diamond Hoe] to VivailDUX69]
-[01:40:22] [Server thread/INFO]: [VivailDUX69: Gave 2 [Bucket] to VivailDUX69]
-[01:41:54] [Server thread/INFO]: [VivailDUX69: Gave 128 [Torch] to VivailDUX69]
-[01:43:18] [Server thread/INFO]: VivailDUX69 was slain by Drowned
+[11:36:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:36:30] [ServerMain/INFO]: Loaded 1290 recipes
+[11:36:30] [ServerMain/INFO]: Loaded 1399 advancements
+[11:36:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[11:36:31] [Server thread/INFO]: Loading properties
+[11:36:31] [Server thread/INFO]: Default game type: SURVIVAL
+[11:36:31] [Server thread/INFO]: Generating keypair
+[11:36:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:36:32] [Server thread/INFO]: Using epoll channel type
+[11:36:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:36:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:36:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:36:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:36:32] [Server thread/INFO]: Preparing level "world"
+[11:36:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:36:36] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[11:36:36] [Server thread/INFO]: Time elapsed: 1183 ms
+[11:36:36] [Server thread/INFO]: Done (4.733s)! For help, type "help"
+[11:38:04] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:42277] logged in with entity id 12 at (3756.1129233132688, 51.9375, -5910.894589194884)
+[11:38:04] [Server thread/INFO]: MR_MarmoRella joined the game
+[11:40:51] [Server thread/INFO]: Gabbo1041[/127.145.178.205:53489] logged in with entity id 681 at (3459.6002659358314, 71.0, -5801.014678323507)
+[11:40:51] [Server thread/INFO]: Gabbo1041 joined the game
+[11:41:41] [Server thread/INFO]: [Not Secure] <Gabbo1041> ciao joshh
+[11:41:50] [Server thread/INFO]: [Not Secure] <MR_MarmoRella> ???
+[11:42:01] [Server thread/INFO]: [Not Secure] <Gabbo1041> cosa stai facendo
+[11:42:16] [Server thread/INFO]: [Not Secure] <Gabbo1041> mettiti a dormire
+[11:43:25] [Server thread/INFO]: [Not Secure] <Gabbo1041> non sei andato nel nether vero
+[11:43:36] [Server thread/INFO]: [Not Secure] <Gabbo1041> ????
+[11:43:40] [Server thread/INFO]: [Not Secure] <MR_MarmoRella> NO
+[11:43:57] [Server thread/INFO]: [Not Secure] <Gabbo1041> quanti diamanti hai
+[11:44:06] [Server thread/INFO]: [Not Secure] <Gabbo1041> ?????
+[11:44:11] [Server thread/INFO]: [Not Secure] <MR_MarmoRella> boh
+[11:44:32] [Server thread/INFO]: [Not Secure] <Gabbo1041> piu di 1 stack???
+[11:44:50] [Server thread/INFO]: MR_MarmoRella has made the advancement [Ice Bucket Challenge]
+[11:45:16] [Server thread/INFO]: [Not Secure] <Gabbo1041> sei nell end???
