@@ -10,12 +10,14 @@
       "minecraft:badlands": "2025-03-09 16:37:44 +0000",
       "minecraft:beach": "2025-03-08 17:27:13 +0000",
       "minecraft:forest": "2025-03-08 16:24:16 +0000",
+      "minecraft:taiga": "2025-03-09 16:59:22 +0000",
       "minecraft:mangrove_swamp": "2025-03-08 17:27:25 +0000",
       "minecraft:sparse_jungle": "2025-03-08 16:25:02 +0000",
       "minecraft:river": "2025-03-08 16:24:10 +0000",
       "minecraft:lukewarm_ocean": "2025-03-08 17:28:02 +0000",
       "minecraft:lush_caves": "2025-03-08 17:53:02 +0000",
       "minecraft:dripstone_caves": "2025-03-08 16:30:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-09 16:59:27 +0000",
       "minecraft:desert": "2025-03-09 16:36:34 +0000",
       "minecraft:jungle": "2025-03-08 16:24:47 +0000",
       "minecraft:ocean": "2025-03-08 20:06:02 +0000",
@@ -2230,19 +2232,49 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-03-09 16:47:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-09 16:33:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 16:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-09 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-09 16:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-09 16:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 16:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-09 16:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-03-09 16:52:10 +0000"
     },
@@ -2254,39 +2286,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-03-09 16:55:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-03-09 16:52:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-09 16:52:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-09 16:33:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-03-09 16:48:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-03-09 16:36:54 +0000"
     },
     "done": true
   },
@@ -2296,9 +2298,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_log": "2025-03-09 16:48:04 +0000"
+      "has_snowball": "2025-03-09 16:55:05 +0000"
     },
     "done": true
   },
