@@ -19,7 +19,9 @@
       "minecraft:desert": "2025-03-09 16:36:34 +0000",
       "minecraft:jungle": "2025-03-08 16:24:47 +0000",
       "minecraft:ocean": "2025-03-08 20:06:02 +0000",
+      "minecraft:cherry_grove": "2025-03-09 16:47:34 +0000",
       "minecraft:swamp": "2025-03-08 20:04:27 +0000",
+      "minecraft:windswept_hills": "2025-03-09 16:53:03 +0000",
       "minecraft:savanna": "2025-03-08 16:02:49 +0000",
       "minecraft:wooded_badlands": "2025-03-09 16:38:55 +0000",
       "minecraft:windswept_savanna": "2025-03-08 17:27:47 +0000",
@@ -2228,9 +2230,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-09 16:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-09 16:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-09 16:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 16:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-09 16:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-09 16:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-09 16:52:26 +0000"
     },
     "done": true
   },
@@ -2240,9 +2278,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-09 16:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-03-09 16:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-09 16:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 16:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-09 16:55:05 +0000"
     },
     "done": true
   },
