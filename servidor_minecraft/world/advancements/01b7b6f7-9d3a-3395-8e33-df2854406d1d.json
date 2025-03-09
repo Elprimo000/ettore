@@ -15,6 +15,7 @@
       "minecraft:lukewarm_ocean": "2025-03-08 17:28:02 +0000",
       "minecraft:lush_caves": "2025-03-08 17:53:02 +0000",
       "minecraft:dripstone_caves": "2025-03-08 16:30:10 +0000",
+      "minecraft:desert": "2025-03-09 16:36:34 +0000",
       "minecraft:jungle": "2025-03-08 16:24:47 +0000",
       "minecraft:ocean": "2025-03-08 20:06:02 +0000",
       "minecraft:swamp": "2025-03-08 20:04:27 +0000",
@@ -2222,6 +2223,18 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-03-09 13:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-09 16:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 16:33:36 +0000"
     },
     "done": true
   },
