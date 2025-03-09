@@ -16,3 +16,11 @@
 [19:28:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [19:28:25] [Server thread/INFO]: Time elapsed: 507 ms
 [19:28:25] [Server thread/INFO]: Done (3.656s)! For help, type "help"
+[19:51:27] [Server thread/INFO]: VivailDUX69[/127.123.179.159:43381] logged in with entity id 13 at (3428.3944337181565, 66.0, -5639.905915363789)
+[19:51:27] [Server thread/INFO]: VivailDUX69 joined the game
+[19:52:17] [Server thread/INFO]: [VivailDUX69: Gave 128 [Iron Ingot] to VivailDUX69]
+[19:56:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=81, z=-5701} jd{x=3466, y=79, z=-5702}
+[19:56:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=81, z=-5701} jd{x=3466, y=79, z=-5702}
+[19:56:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=81, z=-5704} jd{x=3464, y=80, z=-5705}
+[19:57:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3467, y=80, z=-5712} jd{x=3467, y=79, z=-5714}
+[19:57:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3470, y=79, z=-5708} jd{x=3471, y=79, z=-5709}
