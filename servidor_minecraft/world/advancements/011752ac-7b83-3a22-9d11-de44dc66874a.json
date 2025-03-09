@@ -10,6 +10,7 @@
       "minecraft:badlands": "2025-03-08 20:50:58 +0000",
       "minecraft:desert": "2025-03-08 20:47:26 +0000",
       "minecraft:forest": "2025-03-09 00:50:45 +0000",
+      "minecraft:jungle": "2025-03-09 01:11:02 +0000",
       "minecraft:river": "2025-03-08 20:47:01 +0000",
       "minecraft:dripstone_caves": "2025-03-09 00:52:32 +0000",
       "minecraft:savanna": "2025-03-08 15:55:49 +0000",
@@ -641,6 +642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-09 01:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 00:16:03 +0000"
@@ -806,6 +813,18 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-09 00:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 01:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-09 01:13:14 +0000"
     },
     "done": true
   },
@@ -1455,6 +1474,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-03-09 00:23:12 +0000",
+      "bread": "2025-03-09 01:09:04 +0000",
       "cooked_mutton": "2025-03-09 00:50:36 +0000",
       "melon_slice": "2025-03-09 00:24:19 +0000",
       "porkchop": "2025-03-09 00:22:09 +0000"
@@ -1518,6 +1538,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-09 00:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-09 01:13:44 +0000"
     },
     "done": true
   },
@@ -1590,6 +1616,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-09 00:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 01:13:44 +0000"
     },
     "done": true
   },

@@ -45,3 +45,11 @@
 [01:00:27] [Server thread/INFO]: [SwatCat1987: Killed SwatCat1987]
 [01:00:49] [Server thread/INFO]: [VivailDUX69: Set own game mode to Survival Mode]
 [01:01:11] [Server thread/INFO]: SwatCat1987 has made the advancement [Monster Hunter]
+[01:12:46] [Server thread/INFO]: SwatCat1987 was killed
+[01:12:46] [Server thread/INFO]: [SwatCat1987: Killed SwatCat1987]
+[01:15:03] [Server thread/INFO]: VivailDUX69 lost connection: You logged in from another location
+[01:15:03] [Server thread/INFO]: VivailDUX69 left the game
+[01:15:03] [Server thread/WARN]: handleDisconnection() called twice
+[01:15:05] [Server thread/INFO]: VivailDUX69[/127.200.98.53:42187] logged in with entity id 16294 at (3435.4501145422914, 64.0, -5631.160842608743)
+[01:15:05] [Server thread/INFO]: VivailDUX69 joined the game
+[01:18:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3484, y=66, z=-5663} jd{x=3486, y=65, z=-5664}
