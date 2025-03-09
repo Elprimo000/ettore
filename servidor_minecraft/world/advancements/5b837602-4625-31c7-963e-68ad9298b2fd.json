@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-03-09 00:59:05 +0000",
+      "minecraft:savanna_plateau": "2025-03-09 13:55:54 +0000",
       "minecraft:desert": "2025-03-09 00:58:23 +0000",
       "minecraft:forest": "2025-03-08 17:38:32 +0000",
       "minecraft:mangrove_swamp": "2025-03-08 17:27:02 +0000",
@@ -2563,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-09 13:56:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-03-09 13:21:30 +0000"
@@ -2578,6 +2585,18 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-09 13:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-09 13:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-09 13:46:41 +0000"
     },
     "done": true
   },
