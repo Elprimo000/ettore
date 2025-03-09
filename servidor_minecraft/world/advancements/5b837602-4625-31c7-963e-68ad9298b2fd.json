@@ -962,10 +962,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-08 17:05:40 +0000",
+      "mutton": "2025-03-09 13:12:42 +0000",
       "bread": "2025-03-08 16:51:30 +0000",
       "rotten_flesh": "2025-03-08 16:57:56 +0000",
       "cooked_mutton": "2025-03-08 21:07:29 +0000",
       "cooked_beef": "2025-03-08 21:28:31 +0000",
+      "beef": "2025-03-09 13:12:47 +0000",
       "melon_slice": "2025-03-09 12:54:04 +0000"
     },
     "done": false
@@ -2552,6 +2554,24 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-03-09 12:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-09 13:11:06 +0000"
     },
     "done": true
   },

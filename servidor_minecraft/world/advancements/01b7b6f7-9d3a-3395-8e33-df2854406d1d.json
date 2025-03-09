@@ -2105,9 +2105,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-03-09 12:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-03-09 12:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 12:06:43 +0000"
     },
     "done": true
   },
@@ -2141,21 +2153,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-03-09 12:06:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-03-09 12:08:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-03-09 12:06:43 +0000"
     },
     "done": true
   },
