@@ -24,3 +24,32 @@
 [19:56:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3465, y=81, z=-5704} jd{x=3464, y=80, z=-5705}
 [19:57:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3467, y=80, z=-5712} jd{x=3467, y=79, z=-5714}
 [19:57:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3470, y=79, z=-5708} jd{x=3471, y=79, z=-5709}
+[19:59:28] [Server thread/INFO]: SwatCat1987[/127.60.220.118:57647] logged in with entity id 1613 at (3388.0599694528732, 69.0, -5658.2579573157)
+[19:59:28] [Server thread/INFO]: SwatCat1987 joined the game
+[19:59:55] [Server thread/INFO]: VivailDUX69 was slain by Enderman
+[20:00:50] [Server thread/INFO]: MR_MarmoRella[/127.139.73.10:55819] logged in with entity id 1906 at (3758.77717884948, 52.0, -5908.231913024657)
+[20:00:50] [Server thread/INFO]: MR_MarmoRella joined the game
+[20:01:39] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to SwatCat1987]
+[20:01:47] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to MR_MarmoRella]
+[20:02:12] [Server thread/INFO]: [VivailDUX69: Set the weather to clear]
+[20:03:07] [Server thread/INFO]: MR_MarmoRella has made the advancement [Ol' Betsy]
+[20:03:43] [Server thread/INFO]: [VivailDUX69: Teleported VivailDUX69 to SwatCat1987]
+[20:03:55] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to SwatCat1987]
+[20:04:33] [Server thread/INFO]: MR_MarmoRella hit the ground too hard
+[20:04:46] [Server thread/INFO]: [MR_MarmoRella: Teleported MR_MarmoRella to SwatCat1987]
+[20:05:19] [Server thread/INFO]: VivailDUX69 has made the advancement [We Need to Go Deeper]
+[20:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:05:23] [Server thread/INFO]: MR_MarmoRella has made the advancement [We Need to Go Deeper]
+[20:05:38] [Server thread/INFO]: [SwatCat1987: Set the time to 1000]
+[20:07:45] [Server thread/INFO]: MR_MarmoRella tried to swim in lava
+[20:09:06] [Server thread/INFO]: [SwatCat1987: Set own game mode to Spectator Mode]
+[20:09:41] [Server thread/INFO]: [SwatCat1987: Set own game mode to Creative Mode]
+[20:09:52] [Server thread/INFO]: [SwatCat1987: Set own game mode to Survival Mode]
+[20:12:22] [Server thread/INFO]: VivailDUX69 tried to swim in lava
+[20:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3427, y=73, z=-5695} jd{x=3428, y=71, z=-5694}
+[20:16:31] [Server thread/INFO]: [SwatCat1987: Set own game mode to Spectator Mode]
+[20:17:03] [Server thread/INFO]: [SwatCat1987: Set the time to 1000]
+[20:17:12] [Server thread/INFO]: [SwatCat1987: Set own game mode to Survival Mode]
+[20:21:21] [Server thread/INFO]: MR_MarmoRella fell from a high place
+[20:22:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3428, y=64, z=-5625} jd{x=3426, y=62, z=-5625}
+[20:27:05] [Server thread/INFO]: [SwatCat1987: Set the time to 1000]
