@@ -182,3 +182,47 @@
 [20:58:55] [Server thread/INFO]: [SwatCat1987: Applied effect Levitation to VivailDUX69]
 [20:58:56] [Server thread/INFO]: VivailDUX69 has completed the challenge [Great View From Up Here]
 [20:59:04] [Server thread/WARN]: VivailDUX69 moved too quickly! -0.8066138933409093,22.912039101532855,0.7366148909377443
+[20:59:07] [Server thread/INFO]: [SwatCat1987: Removed effect Levitation from VivailDUX69]
+[20:59:26] [Server thread/INFO]: VivailDUX69 fell from a high place
+[20:59:41] [Server thread/INFO]: [VivailDUX69: Removed every effect from SwatCat1987]
+[20:59:44] [Server thread/INFO]: [SwatCat1987: Applied effect Levitation to MR_MarmoRella]
+[20:59:59] [Server thread/INFO]: [MR_MarmoRella: Removed effect Levitation from MR_MarmoRella]
+[21:00:27] [Server thread/INFO]: [SwatCat1987: Applied effect Levitation to SwatCat1987]
+[21:00:27] [Server thread/INFO]: SwatCat1987 has completed the challenge [Great View From Up Here]
+[21:00:45] [Server thread/INFO]: [SwatCat1987: Removed effect Levitation from SwatCat1987]
+[21:01:12] [Server thread/INFO]: SwatCat1987 fell from a high place
+[21:02:01] [Server thread/INFO]: [SwatCat1987: Applied effect Speed to VivailDUX69]
+[21:02:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=377, y=79, z=-97} jd{x=377, y=79, z=-96}
+[21:02:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=374, y=82, z=-96} jd{x=374, y=81, z=-96}
+[21:02:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=374, y=82, z=-96} jd{x=374, y=81, z=-96}
+[21:02:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=374, y=82, z=-96} jd{x=374, y=81, z=-96}
+[21:03:05] [Server thread/WARN]: VivailDUX69 moved wrongly!
+[21:03:26] [Server thread/INFO]: [VivailDUX69: Removed every effect from VivailDUX69]
+[21:03:45] [Server thread/INFO]: VivailDUX69 has made the advancement [The Parrots and the Bats]
+[21:04:22] [Server thread/INFO]: [SwatCat1987: Applied effect Speed to MR_MarmoRella]
+[21:04:27] [Server thread/INFO]: MR_MarmoRella has completed the challenge [Hot Tourist Destinations]
+[21:04:58] [Server thread/INFO]: [SwatCat1987: Removed every effect from MR_MarmoRella]
+[21:05:32] [Server thread/INFO]: [SwatCat1987: Set the time to 1000]
+[21:06:09] [Server thread/INFO]: VivailDUX69 lost connection: You logged in from another location
+[21:06:09] [Server thread/INFO]: VivailDUX69 left the game
+[21:06:09] [Server thread/WARN]: handleDisconnection() called twice
+[21:06:13] [Server thread/INFO]: VivailDUX69[/127.235.44.230:49081] logged in with entity id 28010 at (3422.000242159967, 66.0, -5643.107408562636)
+[21:06:13] [Server thread/INFO]: VivailDUX69 joined the game
+[21:06:14] [Server thread/INFO]: [SwatCat1987: Applied effect Slowness to MR_MarmoRella]
+[21:06:23] [Server thread/INFO]: [MR_MarmoRella: Kicked SwatCat1987: Kicked by an operator]
+[21:06:23] [Server thread/INFO]: SwatCat1987 lost connection: Kicked by an operator
+[21:06:23] [Server thread/INFO]: SwatCat1987 left the game
+[21:06:28] [Server thread/INFO]: SwatCat1987[/127.60.220.118:36879] logged in with entity id 28106 at (3387.655888012923, 71.0, -5653.132184341488)
+[21:06:28] [Server thread/INFO]: SwatCat1987 joined the game
+[21:06:45] [Server thread/INFO]: [SwatCat1987: Applied effect Speed to MR_MarmoRella]
+[21:06:47] [Server thread/INFO]: SwatCat1987 was slain by VivailDUX69
+[21:06:55] [Server thread/INFO]: [SwatCat1987: Removed every effect from MR_MarmoRella]
+[21:07:00] [Server thread/INFO]: [SwatCat1987: Applied effect Speed to VivailDUX69]
+[21:07:30] [Server thread/INFO]: [Not Secure] <VivailDUX69> effect give swatcat1987 gayness
+[21:07:31] [Server thread/INFO]: [SwatCat1987: Removed every effect from VivailDUX69]
+[21:07:55] [Server thread/INFO]: [SwatCat1987: Applied effect Levitation to VivailDUX69]
+[21:08:01] [Server thread/INFO]: [SwatCat1987: Removed every effect from VivailDUX69]
+[21:08:12] [Server thread/INFO]: [VivailDUX69: Applied effect Levitation to 3 targets]
+[21:08:27] [Server thread/INFO]: [SwatCat1987: Removed every effect from SwatCat1987]
+[21:08:28] [Server thread/INFO]: [VivailDUX69: Removed every effect from 3 targets]
+[21:08:32] [Server thread/INFO]: VivailDUX69 fell from a high place
