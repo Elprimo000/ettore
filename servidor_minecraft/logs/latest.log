@@ -82,3 +82,9 @@
 [12:47:31] [Server thread/INFO]: [Not Secure] <VivailDUX69> non ho il tuo contatto
 [12:52:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3421, y=69, z=-5653} jd{x=3421, y=67, z=-5652}
 [12:52:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3438, y=67, z=-5656} jd{x=3439, y=65, z=-5656}
+[13:00:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=3509, y=93, z=-5911} jd{x=3509, y=92, z=-5913}
+[13:02:26] [Server thread/INFO]: VivailDUX69 was killed
+[13:02:26] [Server thread/INFO]: [VivailDUX69: Killed VivailDUX69]
+[13:04:37] [Server thread/INFO]: Gabbo1041 lost connection: Timed out
+[13:04:37] [Server thread/INFO]: Gabbo1041 left the game
+[13:04:37] [Server thread/WARN]: handleDisconnection() called twice
